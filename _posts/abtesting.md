@@ -1,6 +1,6 @@
 ---
 title: 'Co-Founder, INSEAD AI Club'
-excerpt: "Most AI conversations at INSEAD stopped at ChatGPT. I co-founded a 60+ member club to push past that - organizing workshops where members built and shipped real tools they now use."
+excerpt: "Most AI use cases at INSEAD stopped at ChatGPT. I co-founded a 60+ member club to push past that - organizing workshops where members built and shipped real tools they now use."
 coverImage: '/AI.svg'
 date: '2026-02-28T10:00:00.000Z'
 author:
