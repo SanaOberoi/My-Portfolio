@@ -1,6 +1,6 @@
 ---
-title: 'Led Follow-On Fundraising'
-excerpt: "Worked across the full fundraising lifecycle - from shaping pitches to getting deals across the line. Built fluency in what both sides of the table need to say yes."
+title: 'Follow-On Fundraising and Exits'
+excerpt: "Worked across the full fundraising lifecycle for portfolio companies - from shaping pitches to getting deals across the line. Built fluency in what both sides of the table need to say yes."
 coverImage: '/follow-on.svg'
 date: '2026-02-28T07:00:00.000Z'
 author:
