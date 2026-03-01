@@ -15,7 +15,7 @@ export default function Intro() {
 </h2>
 
 <p className="text-lg text-slate-500 mb-8 md:pr-12">
-  Full-stack founder partner - spent 3+ years at Elevation Capital building the Corp Dev practice and working with founders across some of their hardest problems.
+  Full-stack founder partner. Co-Built the Corp Dev practice at Elevation Capital and worked with founders across some of their hardest problems.
 </p>
         <a 
   href="/Sana Oberoi_CV.pdf" 
