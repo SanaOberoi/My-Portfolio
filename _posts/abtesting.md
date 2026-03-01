@@ -1,45 +1,27 @@
 ---
-title: 'A/B testing suite for pet hospitals'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/posts/abtesting/cover.svg'
-date: '2022-06-07T05:35:07.322Z'
+title: 'Co-Founding the INSEAD AI Club'
+excerpt: "Learned with a cross-campus cohort to move beyond AI curiosity into real application. Spearheaded hands-on builds to develop functional tools for everyday and commercial use cases."
+coverImage: '/AI.svg'
+date: '2026-02-28T10:00:00.000Z'
 author:
-  name: Annie Apple
-  picture: '/assets/blog/authors/annie.svg'
+  name: Sana Oberoi
+  picture: '/sana.profile.jpg'
 ogImage:
-  url: '/assets/posts/abtesting/cover.svg'
+  url: '/assets/blog/preview/ai-club.jpg'
 ---
 
-## Product
+When I joined INSEAD, everyone in the cohort was eager to understand AI but most usage stopped at basic ChatGPT prompting. There was no structured, go-to place to move beyond the noise into actual application. I realized the fastest way to learn wasn't in isolation, so I decided to co-build a community that could figure it out together.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.
-
-![Example product screencap](/assets/posts/abtesting/example.svg)
-
----
- 
 ## My Role
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
----
+* **Facilitator.** I didn't step in as an expert - I stepped in as someone who wanted to learn and believed a collaborative environment was the best way to do it.
+
+* **Track layer.** Sourcing resources, organizing deep dives, and creating a space where curiosity could turn into something functional.
+
+* **Community builder.** Grew a 60+ member cross-campus club and partnered with tool providers to give the cohort friction-free access to experiment.
 
 ## Execution
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+* **From Research to Application.** We structured the club to bridge academic research and tangible application. We started by actually understanding how the technology worked — breaking down foundational papers like Attention Is All You Need and Language Models are Few-Shot Learners in reading groups, then moved to deep dives on supervised vs. unsupervised learning and specific domains including vision, text, and voice.
 
----
-
-## Challenges & Achievements
-
-### Challenges
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
-### Achievements
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+* **Zero-to-One Builds.** The goal was always hands-on execution. We ran live workshops where members built functional websites from scratch using AI agents like Manus and Lovable. Some of what came out of those sessions include: a travel itinerary tool for INSEAD students, a networking productivity tool, and a personal anniversary website a classmate built for his partner telling their story.

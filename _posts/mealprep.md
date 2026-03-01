@@ -1,44 +1,30 @@
 ---
-title: 'Mobile app for meal preparation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
-coverImage: '/assets/posts/mealprep/cover.svg'
-date: '2022-06-01T05:35:07.322Z'
+title: 'Led Follow-On Fundraising'
+excerpt: "Worked across the full fundraising lifecycle - from shaping pitches to getting deals across the line. Built fluency in what both sides of the table need to say yes."
+coverImage: '/follow-on.svg'
+date: '2026-02-28T07:00:00.000Z'
 author:
-  name: Annie Apple
-  picture: '/assets/blog/authors/annie.svg'
+  name: Sana Oberoi
+  picture: '/sana.profile.jpg'
 ogImage:
-  url: '/assets/posts/mealprep/cover.svg'
----
-
-## Product
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-![Example product screencap](/assets/posts/mealprep/example.svg)
+  url: '/assets/blog/preview/ai-club.jpg'
 
 ---
  
-## My Role
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+After the initial investment, the real work of scaling begins. My mandate was to support portfolio companies through their next rounds of capital — working across the full fundraising lifecycle from shaping the pitch to getting deals across the line. I also supported the Partners on portfolio exits and secondary transactions.
 
----
+## My Role
+
+* **Pitch and narrative support.** Worked with founders to translate operational milestones into investor-ready equity stories — building financial models, pressure-testing valuations, and helping prepare for tough investor questions.
+
+* **Investor pipeline.** Maintained and expanded relationships with ~200 global funds, curating targeted introductions to match portfolio companies with the right capital across geographies.
+
+* **Transaction execution.** Supported the heavy lifting on fundraises and co-led firm-level exits — managing market evaluations, price discovery, and investor negotiations.
 
 ## Execution
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+* **Crafting the equity story.** Worked directly with founders to sharpen their pitches and investor decks, build answers to key investor questions, and stress-test their sector narratives. Helped founders defend and negotiate valuations, supporting successful raises including Nanonets and Skydo.
 
----
+* **Running the global process.** Executed international roadshows and expanded coverage across Americas, Europe, Middle East, and SEA — bringing ~30% new-to-India funds into the network and enabling follow-on funding across 10+ deals.
 
-## Challenges & Achievements
-
-### Challenges
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
-### Achievements
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+* **Exits and secondary transactions.** Co-led portfolio exit strategies and investor negotiations alongside Partners — including price discovery and stake sales in assets like NSE and Swiggy, and coverage of key companies including Urban Company, Acko, and Meesho.

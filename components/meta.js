@@ -34,7 +34,7 @@ export default function Meta() {
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta
         name="description"
-        content={`Annie Apple's product portfolio and blog.`}
+        content={`Sana Oberoi | Portfolio.`}
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
     </Head>

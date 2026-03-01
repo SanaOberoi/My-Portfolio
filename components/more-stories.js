@@ -8,11 +8,11 @@ export default function MoreStories({ posts }) {
           href={`/projects`}
           className="hover:text-success duration-200 transition-colors p-4 block"
         >
-          More Projects
+          An Array of Projects
         </a>
       </h2>
       <p className="text-lg text-slate-500 mb-8 px-4">
-        These projects highlight select features and products I've helped bring to life. While they represent some of my favorite work, they're just a snapshot of my broader portfolio. Due to confidentiality agreements, many projects can't be shared here, but these examples demonstrate my approach to product development and problem-solving.
+        These projects highlight select initiatives I've led or collectively brought to life. While they represent some of my favorite work, they're just a snapshot of my broader portfolio. These examples demonstrate my approach to value creation and ecosystem building.
       </p>
       <div className="mb-8">
         {posts.map((post) => (

@@ -1,45 +1,29 @@
 ---
-title: 'Advanced analytics for internal users'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget.'
-coverImage: '/assets/posts/analytics/cover.svg'
-date: '2022-05-26T05:35:07.322Z'
+title: 'Building Elevation Connect'
+excerpt: "Took a broken, manual process and redesigned it end-to-end into a clean, automated product. Drove the vision and matching logic to scale coordination across hundreds of investors and founders."
+coverImage: '/ec.svg'
+date: '2026-02-28T09:00:00.000Z'
 author:
-  name: Annie Apple
-  picture: '/assets/blog/authors/annie.svg'
+  name: Sana Oberoi
+  picture: '/sana.profile.jpg'
 ogImage:
-  url: '/assets/posts/analytics/cover.svg'
+  url: '/assets/blog/preview/ai-club.jpg'
 ---
 
-## Product
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget.
+When I joined Elevation Capital, I inherited one of India's largest VC-founder conferences. The problem was that it wasn't built to scale. The entire operation was a highly manual bottleneck where a 10-person team spent months coordinating hundreds of meetings between our portfolio founders and global investors using static spreadsheets. I realized we couldn't grow the platform by simply throwing more operational hours at it—we needed a complete product overhaul to turn a manual service into a seamless, automated platform.
 
-![Example product screencap](/assets/posts/analytics/example.svg)
-
----
- 
 ## My Role
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
----
+* **De facto Product Manager.** My mandate wasn't to "run an event"—it was to build a scalable system. I drove the end-to-end product vision, transitioning a broken operational process into a clean, automated web product.
+
+* **Cross-functional leader.** I partnered directly with engineering and design teams, acting as the bridge between business requirements and technical execution. I translated complex stakeholder needs into clear technical specs, user flows, and sprint deliverables.
+
+* **Systems architect.** I designed the underlying matching logic and backend database structures required to handle complex "double opt-ins" across hundreds of high-profile users without breaking or creating friction.
 
 ## Execution
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+We structured the rebuild around removing friction for our two distinct user personas: founders and investors. 
+* **Systems architect.** I started by mapping out the entire user journey, directing our designers to transition users out of clunky spreadsheets and into customized, intuitive web portals. To do this, I had to deeply understand the psychology of the "match"—figuring out exactly what data points both sides of the table needed to see to make a meeting decision, and ensuring the UX surfaced that information cleanly.
 
----
-
-## Challenges & Achievements
-
-### Challenges
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
-### Achievements
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+* **Building Logic Back-end.** The hardest part was the backend routing and automation. I architected the matching logic for ~40 portfolio companies and 200+ global capital pools, designing an automated "double opt-in" system. I worked in lockstep with the tech team to replace endless manual email chains and manual Zoom link generation with a one-click workflow. Ultimately, this condensed a months-long, 10-person manual grind into an automated product that required only ~5 hours per week to manage, successfully enabling over 600 curated meetings and doubling overall attendance.

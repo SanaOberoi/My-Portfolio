@@ -10,20 +10,16 @@ export default function Navigation() {
             <>
                 <ul className="flex justify-end">
                     <li>
-                        <a
-                        href={`/projects`}
-                        className="hover:text-success duration-200 transition-colors p-4 block"
-                        >
-                        Projects
-                        </a>
                     </li>
                     <li>
-                        <a
-                        href={`https://medium.com/`}
-                        className="hover:text-success duration-200 transition-colors p-4 block"
-                        >
-                        Blog
-                        </a>
+<a 
+  href="/Sana Oberoi_CV.pdf" 
+  target="_blank" 
+  rel="noopener noreferrer" 
+  className="hover:text-success duration-200 transition-colors p-4 block"
+>
+  Resume
+</a>
                     </li>
                     <li>
                         <a
