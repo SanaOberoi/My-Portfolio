@@ -26,18 +26,18 @@ const About = () => {
   The person behind the work.
 </h1>
 <p className="text-xl text-gray-600 mb-8">
-  A snapshot of what keeps me curious
+  Here is a bit of my story beyond the spreadsheets.
 </p>
 <p className="text-lg text-slate-500 mb-6">
-  <strong>INSEAD.</strong> Surrounded by 90+ nationalities and very little agreement - great for perspective, even better for future travel plans. I'm fairly certain I now have a couch in almost every time zone.
+  <strong>INSEAD.</strong> I'm currently at INSEAD, surrounded by 70+ nationalities and very little agreement. It has been the best training I've had in building consensus and even better for future travel plans. I'm fairly certain I now have a couch in almost every time zone.
 </p>
 
 <p className="text-lg text-slate-500 mb-6">
-  <strong>Tennis.</strong> I've been playing since I was eight. My asthma and I have had many debates about that decision. Somehow, we're still at it.
+  <strong>Tennis.</strong> I've been playing since I was eight. My asthma and I have had many debates about that decision over the years, but somehow, we’re still at it two decades later.
 </p>
 
 <p className="text-lg text-slate-500 mb-8">
-  <strong>Books.</strong> Nose permanently buried in my Kindle, I've come to believe that values and dilemmas transcend cultures and generations. The settings change but the questions rarely do.
+  <strong>Books.</strong> When I’m not working, my nose is permanently buried in my Kindle. I’ve come to believe that while the settings of our dilemmas change across cultures and generations, the fundamental questions rarely do.
 </p>
                       </div>
                     </div>
