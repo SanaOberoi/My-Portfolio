@@ -13,9 +13,9 @@ export default function Meta() {
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta
         name="description"
-        content={`Sana Oberoi | Portfolio.`}
-      />
-      <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+        content="INSEAD | Elevation Capital"
+        />
+        <meta property="og:title" content="Sana Oberoi" />
     </Head>
   )
 }
