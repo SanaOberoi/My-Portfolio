@@ -1,6 +1,6 @@
 ---
 title: 'Venture Investing'
-excerpt: "Took a 6-month investing internship before INSEAD to experience the other side of the table. Built Elevation's EV thesis from scratch - mapping $2B of India-focused funding across 9 sub-sectors, sourcing and evaluating companies, and presenting the final view to GPs."
+excerpt: "Built Elevation's EV thesis from scratch - mapping $2B of India-focused funding across 9 sub-sectors, sourcing and evaluating companies, and presenting the final view to GPs."
 coverImage: '/Invetsing.svg'
 date: '2026-02-28T06:00:00.000Z'
 author:
