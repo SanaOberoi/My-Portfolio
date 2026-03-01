@@ -22,9 +22,12 @@ const About = () => {
 />
                       </div>
                       <div className="md:pr-8 md:col-span-2">
-                        <h1 className="text-2xl md:text-3xl font-bold leading-tight mb-12">
-                          Curious by default.
-                        </h1>
+<h1 className="text-4xl lg:text-5xl font-bold tracking-tighter leading-tight mb-2">
+  The person behind the work.
+</h1>
+<p className="text-xl text-gray-600 mb-8">
+  A snapshot of what keeps me curious
+</p>
 <p className="text-lg text-slate-500 mb-6">
   <strong>INSEAD.</strong> Surrounded by 90+ nationalities and very little agreement - great for perspective, even better for future travel plans. I'm fairly certain I now have a couch in almost every time zone.
 </p>
