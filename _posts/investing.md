@@ -1,7 +1,7 @@
 ---
 title: 'Venture Investing'
 excerpt: "Worked across investing workflow - from sourcing and market mapping to thesis generation and deal evaluation. Built genuine conviction on what separates interesting from investable."
-coverImage: '/invetsing.svg'
+coverImage: '/Invetsing.svg'
 date: '2026-02-28T06:00:00.000Z'
 author:
   name: Sana Oberoi
