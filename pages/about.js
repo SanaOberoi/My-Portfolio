@@ -25,7 +25,7 @@ const About = () => {
 <h1 className="text-4xl lg:text-5xl font-bold tracking-tighter leading-tight mb-2">
   The person behind the work.
 </h1>
-<p className="text-xl text-gray-600 mb-8">
+<p className="text-lg text-red-500 font-medium mb-8">
   A snapshot of what keeps me curious
 </p>
 <p className="text-lg text-slate-500 mb-6">
