@@ -1,5 +1,5 @@
 ---
-title: 'Operational Problem Solving'
+title: 'Working with Founders on Operational Problems'
 excerpt: "Worked with founders across a range of operational problem statements - from expansion and margin improvement to M&A decisions."
 coverImage: '/ops.svg'
 date: '2026-02-28T08:00:00.000Z'
