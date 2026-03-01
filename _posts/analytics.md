@@ -1,6 +1,6 @@
 ---
-title: 'Building Elevation Connect'
-excerpt: "Took a broken, manual process and redesigned it end-to-end into a clean, automated product. Drove the vision and matching logic to scale coordination across hundreds of investors and founders."
+title: 'Rebuilding Elevation Connect'
+excerpt: "One of India's largest VC-founder conference was running on spreadsheets and a 10-person team. I led the project to rebuilt it end-to-end into an automated platform - 600+ curated meetings, double the attendance, managed by one person."
 coverImage: '/EC.svg'
 date: '2026-02-28T09:00:00.000Z'
 author:
