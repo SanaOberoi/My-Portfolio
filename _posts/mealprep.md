@@ -13,18 +13,10 @@ ogImage:
  
 After the initial investment, the real work of scaling begins. My mandate was to support portfolio companies through their next rounds of capital — working across the full fundraising lifecycle from shaping the pitch to getting deals across the line. I also supported the Partners on portfolio exits and secondary transactions.
 
-## My Role
+## My Role and Execution
 
-* **Pitch and narrative support.** Worked with founders to translate operational milestones into investor-ready equity stories — building financial models, pressure-testing valuations, and helping prepare for tough investor questions.
+* **Pitch and narrative support.** Worked directly with founders to sharpen their pitches and investor decks, build answers to key investor questions, and and building financial models. Supported successful raises including those of Nanonets and Skydo.
 
-* **Investor pipeline.** Maintained and expanded relationships with ~200 global funds, curating targeted introductions to match portfolio companies with the right capital across geographies.
+* **Investor pipeline.** Maintained and expanded relationships with ~200 global funds across Americas, Europe, Middle East, and SEA - bringing ~30% new-to-India funds into the network and enabling follow-on funding across 10+ deals.
 
-* **Transaction execution.** Supported the heavy lifting on fundraises and co-led firm-level exits — managing market evaluations, price discovery, and investor negotiations.
-
-## Execution
-
-* **Crafting the equity story.** Worked directly with founders to sharpen their pitches and investor decks, build answers to key investor questions, and stress-test their sector narratives. Helped founders defend and negotiate valuations, supporting successful raises including Nanonets and Skydo.
-
-* **Running the global process.** Executed international roadshows and expanded coverage across Americas, Europe, Middle East, and SEA — bringing ~30% new-to-India funds into the network and enabling follow-on funding across 10+ deals.
-
-* **Exits and secondary transactions.** Co-led portfolio exit strategies and investor negotiations alongside Partners — including price discovery and stake sales in assets like NSE and Swiggy, and coverage of key companies including Urban Company, Acko, and Meesho.
+* **Exits and secondary transactions.** Co-led portfolio exit strategies and investor negotiations alongside Partners including price discovery and stake sales in NSE and Swiggy, and coverage of key companies including Urban Company, Acko, and Meesho.
