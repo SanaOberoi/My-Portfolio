@@ -14,7 +14,7 @@ When I joined INSEAD, everyone in the cohort was eager to understand AI but most
 
 ## My Role
 
-* **Facilitator.** I didn't step in as an expert - I stepped in as someone who wanted to learn and believed a collaborative environment was the best way to do it.
+* **Facilitator.**  I stepped in as someone who wanted to learn and believed a collaborative environment was the best way to do it.
 
 * **Track layer.** Sourcing resources, organizing deep dives, and creating a space where curiosity could turn into something functional.
 
