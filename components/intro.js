@@ -29,7 +29,7 @@ export default function Intro() {
       <img
   src="/sana.profile.jpg"
   alt="Sana Oberoi"
-  className="rounded-full w-64 h-64 aspect-square object-cover object-top shadow-lg mx-auto md:mx-0"
+  className="rounded-full w-64 h-64 mb-8 aspect-square object-cover object-top shadow-lg mx-auto md:mx-0"
 />
     </section>
   )
