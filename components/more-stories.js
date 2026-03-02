@@ -8,7 +8,7 @@ export default function MoreStories({ posts }) {
           href={`/projects`}
           className="hover:text-success duration-200 transition-colors p-4 block"
         >
-          An Array of Projects
+          Projects
         </a>
       </h2>
       <p className="text-lg text-slate-500 mb-8 px-4">
