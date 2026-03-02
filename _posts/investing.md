@@ -24,8 +24,8 @@ Before heading to INSEAD for my MBA, I wanted to experience the other side of th
 
 I mapped the Indian EV landscape, where I broke the ecosystem down into specific sub-segments to identify true white space:
 
-* **Evaluating OEMs in a Maturing Market:** The EV OEM space was already marked by massive funding, consolidation, and early IPOs. Instead of following the herd, my analytical focus was on rigorously questioning the remaining white space: I evaluated whether a 5th or 6th challenger brand could actually capture sustainable, venture-scale value, or if the initial window was already closing.
+* **Evaluating OEMs in a Maturing Market:** The EV OEM space was already marked by massive funding, consolidation, and early IPOs. My focus was on questioning the white space: I evaluated whether a 5th or 6th challenger brand could actually capture sustainable, venture-scale value, or if the initial window was already closing.
 
-* **Deconstructing Swapping & Charging Economics:** I evaluated whether global blueprints—like Gogoro's $300M+ highly dense swapping networks in Taipei—were fundamentally viable for the Indian market. I mapped out the structural bottlenecks, specifically identifying how the lack of standardized battery connectors and formats creates a fragmented ecosystem that locks consumers in and destroys the station density required to scale. 
+* **Deconstructing Swapping & Charging Economics:** I evaluated whether global blueprints—like Gogoro's $300M+ highly dense swapping networks in Taipei—were fundamentally viable for the Indian market. I mapped out the structural bottlenecks, specifically identifying how the lack of standardization created a fragmented ecosystem that destroys scale. 
 
-* **Anticipating Platform Plays:** I tracked early funding flows in the US and Europe to identify the next set of opportunities for India. This led to a targeted sourcing effort for startups building software and data analytics layers for battery health and lifecycle management—high-leverage, scalable platform plays sitting on top of the physical infrastructure.
+* **Anticipating Platform Plays:** Tracking early funding flows in the US and Europe led to a targeted sourcing effort for startups building software and data analytics layers for battery health and lifecycle management platform plays sitting on top of the physical infrastructure.
