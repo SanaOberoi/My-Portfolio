@@ -11,7 +11,7 @@ ogImage:
 
 ---
  
-After the initial investment, the real work of scaling begins. My mandate was to support portfolio companies through their next rounds of capital — working across the full fundraising lifecycle from shaping the pitch to getting deals across the line. I also supported the Partners on portfolio exits and secondary transactions.
+My mandate was to support portfolio companies through their next rounds of capital — working across the full fundraising lifecycle from shaping the pitch to getting deals across the line. I also supported the Partners on portfolio exits and secondary transactions.
 
 ## My Role and Execution
 
