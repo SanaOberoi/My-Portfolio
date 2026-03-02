@@ -10,7 +10,7 @@ ogImage:
   url: '/assets/blog/preview/ai-club.jpg'
 ---
 
-Before heading to INSEAD for my MBA, I wanted to experience the other side of the table. I took on a 6-month investment internship, capitalizing on the opportunity to learn directly from some of the best early-stage investors in the Indian ecosystem. I deliberately focused my efforts on the Electric Vehicle (EV) sector. Because it was such a nascent space, there was no structured point of view or established firm thesis yet. This gave me a blank canvas to add immediate value by mapping the market and building out our EV investment perspective entirely from scratch.
+Before heading to INSEAD for my MBA, I wanted to experience the other side of the table. I took on a 6-month investment internship, capitalizing on the opportunity to learn directly from some of the best early-stage investors in the Indian ecosystem. I focused my efforts on the Electric Vehicle (EV) sector because it was such a nascent space, there was no established fund thesis yet. This gave me an opportunity to add immediate value.
 
 ## My Role
 
