@@ -29,7 +29,7 @@ export default function PostPreview({
               <a className="hover:underline">{title}</a>
             </Link>
           </h3>
-          <p className="text-lg leading-relaxed mb-4 text-slate-500">{excerpt}</p>
+          <p className="text-lg leading-relaxed mb-4 text-slate-500 whitespace-pre-line">{excerpt}</p>
         </div>
       </div>
     </div>

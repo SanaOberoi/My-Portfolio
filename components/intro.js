@@ -18,7 +18,7 @@ export default function Intro() {
   Full-stack founder partner. Co-Built the Corp Dev practice from 0 to 1 at Elevation Capital and worked with founders across some of their hardest problems.
 </p>
         <a 
-  href="/Sana Oberoi_CV.pdf" 
+  href="/Resume_2026.pdf" 
   target="_blank" 
   rel="noopener noreferrer"
   className="bg-red-500 hover:bg-white hover:text-red-500 border border-red-500 text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mt-6 inline-block"

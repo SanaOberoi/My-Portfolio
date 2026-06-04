@@ -1,6 +1,9 @@
 ---
-title: 'Co-Founder, INSEAD AI Club'
-excerpt: "Most AI use cases at INSEAD stopped at ChatGPT. I co-founded a 60+ member club to push past that - organizing workshops where members built and shipped real tools they now use."
+title: 'Building in AI'
+excerpt: |
+  Used my time at the MBA to go beyond theory.
+  • Moss (YC F25) - Growth: Joined as the first non-technical hire to build their pricing model, automate internal workflows, and co-build the GTM motion.
+  • Vibe coded tools for Indian SME apparel sellers to answer two questions they currently can't: what did I actually earn per order, and how should I price each SKU.
 coverImage: '/AI.svg'
 date: '2026-02-28T10:00:00.000Z'
 author:
@@ -10,18 +13,20 @@ ogImage:
   url: '/assets/blog/preview/ai-club.jpg'
 ---
 
-When I joined INSEAD, everyone in the cohort was eager to understand AI but most usage stopped at basic ChatGPT prompting. There was no structured, go-to place to move beyond the noise into actual application. I realized the fastest way to learn wasn't in isolation, so I decided to co-build a community that could figure it out together.
+I didn't want to finish the MBA having only ready about AI. I wanted to have built something real. Two things came out of that.
 
-## My Role
+### Moss (YC F25) - Growth
+Moss is a real-time semantic search for AI agents. I joined as the first non-technical hire.
 
-* **Facilitator.**  I stepped in as someone who wanted to learn and believed a collaborative environment was the best way to do it.
+**Designed the product pricing system.** Identified three structural gaps in existing pricing, benchmarked against competitors, and shipped a new pricing system that unblocked stalled enterprise deals and contributed to first closed contracts.
 
-* **Track layer.** Sourcing resources, organizing deep dives, and creating a space where curiosity could turn into something functional.
+**Diagnosed process gaps.** In internal operations and automated workflows across CRM architecture and prospect mapping.
 
-* **Community builder.** Grew a 60+ member cross-campus club and partnered with tool providers to give the cohort friction-free access to experiment.
+**Worked with the founding team.** To build GTM strategy from the ground up.
 
-## Execution
+### Tools for Indian SME Sellers
+Indian SME apparel sellers make pricing and inventory decisions without knowing their true economics—settlement systems are genuinely hard to audit at order level, so most assume a 5–7% monthly loss and move on. I built two tools to fix that.
 
-* **From Research to Application.** We structured the club to bridge academic research and tangible application. We started by actually understanding how the technology worked — breaking down foundational papers like Attention Is All You Need and Language Models are Few-Shot Learners in reading groups, then moved to deep dives on supervised vs. unsupervised learning and specific domains including vision, text, and voice.
+**Reconciliation engine.** Audits every order against the official rate card, surfaces overcharges the platform won't flag, and identifies what's disputable before the window closes.
 
-* **Zero-to-One Builds.** The goal was always hands-on execution. We ran live workshops where members built functional websites from scratch using AI agents like Manus and Lovable. Some of what came out of those sessions include: a travel itinerary tool for INSEAD students, a networking productivity tool, and a personal anniversary website a classmate built for his partner telling their story.
+**Pricing and margin engine.** Decodes what platforms actually deduct per order so sellers can price each SKU knowing exactly what lands in their account.

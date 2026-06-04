@@ -34,7 +34,7 @@ export default function HeroPost({
           </div>
         </div>
         <div>
-          <p className="text-lg leading-relaxed mb-4 text-slate-500">{excerpt}</p>
+          <p className="text-lg leading-relaxed mb-4 text-slate-500 whitespace-pre-line">{excerpt}</p>
         </div>
       </div>
     </section>
