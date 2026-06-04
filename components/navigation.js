@@ -13,7 +13,7 @@ export default function Navigation() {
                     </li>
                     <li>
 <a 
-  href="/Resume_2026.pdf" 
+  href="/Sana Oberoi_Resume_2026.pdf" 
   target="_blank" 
   rel="noopener noreferrer" 
   className="hover:text-success duration-200 transition-colors p-4 block"
